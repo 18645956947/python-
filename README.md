@@ -1,2 +1,1 @@
-# untitled
-* python 实现收发邮件
+# python 实现收发邮件
